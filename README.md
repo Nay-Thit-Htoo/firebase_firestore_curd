@@ -1,10 +1,11 @@
 # firebase_firestore_curd
 
-A new Flutter project.
+Testing flutter CURD app using firebase firestore database.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Try it:
+https://www.kindacode.com/article/flutter-firestore-database/ 
 
 A few resources to get you started if this is your first Flutter project:
 
